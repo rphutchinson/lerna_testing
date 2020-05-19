@@ -1,3 +1,3 @@
-module.exports.subtract = function (x, y) {
+module.exports.subtract = function (y, x) {
   return x - y;
 };
