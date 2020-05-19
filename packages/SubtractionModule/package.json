@@ -1,6 +1,6 @@
 {
-  "name": "SubtractionModule",
-  "version": "2.0.0",
+  "name": "SubtractModule",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {

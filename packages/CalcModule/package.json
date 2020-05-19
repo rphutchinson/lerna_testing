@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "AdditionModule": "^1.1.0",
-    "SubtractionModule": "^2.0.0"
+    "SubtractModule": "1.0.0"
   }
 }
