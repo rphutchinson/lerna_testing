@@ -1,6 +1,6 @@
 {
   "name": "CalcModule",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "AdditionModule": "^1.0.0",
-    "SubtractionModule": "^1.0.0"
+    "SubtractionModule": "^2.0.0"
   }
 }
